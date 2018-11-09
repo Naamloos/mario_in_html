@@ -1,0 +1,63 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#box{
+	width: calc(13 * 2vw);
+	height: calc(16 * 1vw);
+	margin: auto;
+	padding-top: calc(50% - (16 * 1vw) * 2);
+}
+
+.pixel-row{
+	height: 2vw;
+}
+
+.red{
+	width: 2vw;
+	height: 2vw;
+	float: left;
+	background-color: red;
+}
+
+.blue{
+	width: 2vw;
+	height: 2vw;
+	float: left;
+	background-color: blue;
+}
+
+.brown{
+	width: 2vw;
+	height: 2vw;
+	float: left;
+	background-color: SaddleBrown;
+}
+
+.yellow{
+	width: 2vw;
+	height: 2vw;
+	float: left;
+	background-color: Yellow;
+}
+
+.skin{
+	width: 2vw;
+	height: 2vw;
+	float: left;
+	background-color: SandyBrown;
+}
+
+.black{
+	width: 2vw;
+	height: 2vw;
+	float: left;
+	background-color: black;
+}
+
+.clear{
+	width: 2vw;
+	height: 2vw;
+	float: left;
+}
